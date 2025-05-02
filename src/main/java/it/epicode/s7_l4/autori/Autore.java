@@ -9,7 +9,7 @@ public class Autore {
     private String email;
     private String telefono;
     private String indirizzo;
-    private String citta;
+    private String cittaDiResidenza;
     private String provincia;
     private String cap;
     private String nazione;
